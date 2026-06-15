@@ -20,7 +20,7 @@ The dashboard displays nearby activities, community categories, and potential bu
 
 Users can browse upcoming activities, view event details, and join events.
 
-![FindYourBuddy Events](./docs/screenshots/Events.png)
+![FindYourBuddy Events](./docs/screenshots/Event.png)
 
 ### Buddy Discovery
 
