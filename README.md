@@ -134,7 +134,7 @@ Security measures include:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/findyourbuddy.git
+git clone https://github.com/Learntobegood11/findyourbuddy.git
 ```
 
 Enter the project folder:
