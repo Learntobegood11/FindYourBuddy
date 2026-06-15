@@ -14,19 +14,19 @@ Users can create profiles, discover people with similar interests, join communit
 
 The dashboard displays nearby activities, community categories, and potential buddies based on the user's location.
 
-![FindYourBuddy Dashboard](./docs/screenshots/dashboard.png)
+![FindYourBuddy Dashboard](./docs/screenshots/Dashboard.png)
 
 ### Event Discovery
 
 Users can browse upcoming activities, view event details, and join events.
 
-![FindYourBuddy Events](./docs/screenshots/events.png)
+![FindYourBuddy Events](./docs/screenshots/Events.png)
 
 ### Buddy Discovery
 
 Users can discover other profiles, review interests and biographies, and send buddy requests.
 
-![FindYourBuddy Find Buddy page](./docs/screenshots/find-buddy.png)
+![FindYourBuddy Find Buddy page](./docs/screenshots/messages.png)
 
 ## Main Features
 
