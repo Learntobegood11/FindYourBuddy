@@ -7,6 +7,7 @@ Users can create profiles, discover people with similar interests, join communit
 ## Live Demo
 
 [Open the live FindYourBuddy application](YOUR_VERCEL_URL)
+Hosted with Vercel.
 
 ## Application Preview
 
