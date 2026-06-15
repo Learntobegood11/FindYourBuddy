@@ -1,0 +1,58 @@
+export const communities = [
+  {
+    id: "sports",
+    name: "Sports",
+    icon: "⚽",
+    description: "Matches, running, swimming and team activities.",
+    color: "#10b981",
+  },
+  {
+    id: "music",
+    name: "Music",
+    icon: "🎵",
+    description: "Concerts, festivals and live music.",
+    color: "#8b5cf6",
+  },
+  {
+    id: "nightlife",
+    name: "Nightlife",
+    icon: "✨",
+    description: "Parties, clubs and evening social events.",
+    color: "#ec4899",
+  },
+  {
+    id: "wellness",
+    name: "Wellness",
+    icon: "🏊",
+    description: "Swimming, yoga and healthy activities.",
+    color: "#0ea5e9",
+  },
+  {
+    id: "culture",
+    name: "Culture",
+    icon: "🎨",
+    description: "Museums, exhibitions, cinema and theatre.",
+    color: "#f59e0b",
+  },
+  {
+    id: "outdoors",
+    name: "Outdoors",
+    icon: "🌳",
+    description: "Walks, hiking, cycling and outdoor meetups.",
+    color: "#22c55e",
+  },
+  {
+    id: "social",
+    name: "Social",
+    icon: "☕",
+    description: "Coffee, dinners and newcomer meetups.",
+    color: "#f97316",
+  },
+  {
+    id: "learning",
+    name: "Learning",
+    icon: "💬",
+    description: "Language exchange, workshops and study groups.",
+    color: "#6366f1",
+  },
+];
