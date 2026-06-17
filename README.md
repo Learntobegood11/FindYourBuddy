@@ -6,7 +6,7 @@ Users can create profiles, discover people with similar interests, join communit
 
 ## Live Demo
 
-[Open the live FindYourBuddy application](https://project-vysms-qcj573c3d-mehdi-s-projects.vercel.app/)
+[Open the live FindYourBuddy application](project-vysms.vercel.app)
 Hosted with Vercel.
 
 ## Application Preview
